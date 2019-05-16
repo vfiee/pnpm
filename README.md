@@ -1,6 +1,6 @@
-# GitHub Action for NPM
+# GitHub Action for PNPM
 
-This Action for [npm](https://www.npmjs.com/) enables arbitrary actions with the `npm` command-line client, including testing packages and publishing to a registry.
+This Action for [pnpm](https://pnpm.js.org) enables arbitrary actions with the `npm` command-line client, including testing packages and publishing to a registry.
 
 ## Usage
 
